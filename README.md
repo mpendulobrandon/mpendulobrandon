@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mpendulobrandon
 - 👀 I’m interested in full stack web development, Java/C# programing, and software testing
 - 🌱 I’m currently a 3rd and final year student at Rosebank College in South Africa
-- 💞️ I’m looking to collaborate on web development project that use html, css and Javascript 
+- 💞️ I’m looking to collaborate on web development projects that use html, css and Javascript 
 - 📫 How to reach me: https://www.linkedin.com/in/mpendulosibanda/
 
 <!---
